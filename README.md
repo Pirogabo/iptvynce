@@ -1,2 +1,6 @@
-# iptvynce
-Reproductor de streaming compatible con MPD, M3U8, HLS, DASH, IPTV y EPG.
+# ▶ IPTvynce
+
+&nbsp;<br>&nbsp;
+
+> [!IMPORTANT]
+> _**Disclaimer:** The extension does not include any channel or media. The user need to provide their own media._
