@@ -3,4 +3,4 @@
 &nbsp;<br>&nbsp;
 
 > [!IMPORTANT]
-> _**Disclaimer:** The extension does not include any channel or media. The user need to provide their own media._
+> _**Aviso:** La aplicacion no incluye ningún canal ni medio. El usuario debe proporcionar su propio contenido multimedia._
