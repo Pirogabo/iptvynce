@@ -1,4 +1,4 @@
-# ▶ IPTvynce
+# 📺 IPTVynce
 
 &nbsp;<br>&nbsp;
 
