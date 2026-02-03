@@ -1,8 +1,17 @@
 # 📺 IPTVynce
-
+Aplicacion de escritorio gratuita y libre para reproducir y grabar streams de video (HLS, DASH, M3U, M3U8, IPTV).
 
 &nbsp;<br>&nbsp;
+## Caracteristicas
 
+- Reproductor de streams HLS/DASH/M3U8
+- Grabacion con FFmpeg integrado
+- Grabacion programada (unica, diaria, semanal)
+- Gestion de playlists M3U/M3U8
+- Compatible con Windows y Linux
+- 100% libre, sin licencias ni pagos
+
+  &nbsp;<br>&nbsp;
 > [!NOTE]
 > Para usar el programa necesitas:
 
