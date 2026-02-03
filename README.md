@@ -13,7 +13,7 @@ Aplicacion de escritorio gratuita y libre para reproducir y grabar streams de vi
 
   &nbsp;<br>&nbsp;
 > [!NOTE]
-> Para usar el programa necesitas:
+> # Para usar el programa necesitas:
 
 **Requisitos en tu PC:**
 
